@@ -1,19 +1,5 @@
 [
     {
-        "title": "Apple smoothie",
-        "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Apple",
-        "tags": [
-            "smoothies"
-        ]
-    },
-    {
-        "title": "Blueberry smoothie",
-        "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Blueberry",
-        "tags": [
-            "smoothies"
-        ]
-    },
-    {
         "title": "Buy blue boba",
         "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyBlueBoba",
         "tags": [
@@ -81,27 +67,6 @@
         "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToPrepareRamen",
         "tags": [
             "fastFood"
-        ]
-    },
-    {
-        "title": "Peach smoothie",
-        "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Peach",
-        "tags": [
-            "smoothies"
-        ]
-    },
-    {
-        "title": "Plum smoothie",
-        "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Plum",
-        "tags": [
-            "smoothies"
-        ]
-    },
-    {
-        "title": "Red berry smoothie",
-        "url": "https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/RedBerries",
-        "tags": [
-            "smoothies"
         ]
     }
 ]

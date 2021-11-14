@@ -47,8 +47,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://DylanMcD8.github.io/School-Assistant-Support/404) (SupportDocs Integrated File) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/School-Assistant-Support/404.md))
-- [Apple smoothie](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
@@ -59,9 +57,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to eat tacos](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
 - [How to make spaghetti](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
 
 ## Notes
