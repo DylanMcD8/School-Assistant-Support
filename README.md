@@ -47,9 +47,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://DylanMcD8.github.io/School-Assistant-Support/404) (SupportDocs Integrated File) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/School-Assistant-Support/404.md))
-- [Buy blue boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
 
 
 ## Notes
