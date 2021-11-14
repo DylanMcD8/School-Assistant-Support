@@ -50,13 +50,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Buy blue boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://DylanMcD8.github.io/School-Assistant-Support/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://DylanMcD8.github.io/School-Assistant-Support/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
 
 
 ## Notes
