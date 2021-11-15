@@ -47,6 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://DylanMcD8.github.io/School-Assistant-Support/404) (SupportDocs Integrated File) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/School-Assistant-Support/404.md))
+- [How to Add a Schoolwork](https://DylanMcD8.github.io/School-Assistant-Support/SchoolworkArticles/HowToUseSchoolwork) (how-to-add-a-schoolwork, schoolwork, how to add) ([edit](https://github.com/DylanMcD8/School-Assistant-Support/edit/DataSource/SchoolworkArticles/HowToUseSchoolwork.md))
 
 
 ## Notes
